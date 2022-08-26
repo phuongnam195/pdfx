@@ -19,3 +19,15 @@ doc/api/
 *.js_
 *.js.deps
 *.js.map
+android/.gradle/7.4.2/gc.properties
+android/.gradle/7.4.2/checksums/checksums.lock
+android/.gradle/7.4.2/checksums/md5-checksums.bin
+android/.gradle/7.4.2/checksums/sha1-checksums.bin
+android/.gradle/7.4.2/dependencies-accessors/dependencies-accessors.lock
+android/.gradle/7.4.2/dependencies-accessors/gc.properties
+android/.gradle/7.4.2/executionHistory/executionHistory.lock
+android/.gradle/7.4.2/fileChanges/last-build.bin
+android/.gradle/7.4.2/fileHashes/fileHashes.lock
+android/.gradle/buildOutputCleanup/buildOutputCleanup.lock
+android/.gradle/buildOutputCleanup/cache.properties
+android/.gradle/vcs-1/gc.properties
